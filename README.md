@@ -9,6 +9,7 @@ Gain hands-on experience with VPNs and understand their role in privacy, encrypt
 - **ProtonVPN** (Free version)
 - **whatismyipaddress.com** (IP check)
 - **Ookla** (Speedtest)
+- **Wireshark**
 
 ---
 
@@ -27,7 +28,10 @@ Gain hands-on experience with VPNs and understand their role in privacy, encrypt
 - Captured screenshots of:
   - IP before VPN
   - IP after VPN
-  - Speed difference observed
+  - Speed difference observed using [Ookla](https://www.speedtest.net/)
+
+### 4. Traffic Monitoring
+- Used **Wireshark** to capture and monitor traffic
  
 ## Additional Notes
 - See [`vpn_summary.md`](./vpn_summary.md) for a detailed summary on VPNs, encryption, tunneling, and limitations.
