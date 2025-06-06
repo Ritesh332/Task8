@@ -1,7 +1,7 @@
-# Task 8 - VPN Hands-On and Browser Security
+# Task 8 - Working and understanding VPN
 
 ## Objective
-Gain hands-on experience with VPNs and understand their role in privacy, encryption, and secure communication. Also, identify and remove suspicious browser extensions to enhance browser security.
+Gain hands-on experience with VPNs and understand their role in privacy, encryption, and secure communication.
 
 ---
 
@@ -32,11 +32,15 @@ Gain hands-on experience with VPNs and understand their role in privacy, encrypt
 
 ### 4. Traffic Monitoring
 - Used **Wireshark** to capture and monitor traffic
+
+---
  
 ## Additional Notes
 - See [`vpn_summary.md`](./vpn_summary.md) for a detailed summary on VPNs, encryption, tunneling, and limitations.
 
+---
+
 ## ⚠️ Disclaimer
-> This repository is created for **educational purposes** under a cybersecurity internship. All tools used are **free** and **legally allowed**. Avoid using VPNs for malicious or illegal activities.
+> This repository is created for **educational purposes**. All tools used are **free** and **legally allowed**. Avoid using VPNs for malicious or illegal activities.
 
 ---
